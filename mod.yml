@@ -5,3 +5,7 @@ assets:
   method: copy
   source:
   - name: voice\us\battle\al0_sora.win32.scd
+- name: voice\us\battle\bb0_sora.win32.scd
+  method: copy
+  source:
+  - name: voice\us\battle\bb0_sora.win32.scd
