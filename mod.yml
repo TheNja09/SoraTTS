@@ -1,5 +1,5 @@
 title: Sora Text To Speech
-description: Replaces the battle quotes of Sora with Just a Pancake's TTS from his videos.
+description: Replaces the battle quotes of Sora with Just a Pancake's TTS from his videos. If you found this mod from my github, congratulations! The mod is not finished yet.
 assets:
 - name: voice\us\battle\al0_sora.win32.scd
   method: copy
